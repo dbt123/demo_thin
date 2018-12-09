@@ -1,0 +1,65 @@
+[Thu Oct 13 07:13:39.178989 2016] [:error] [pid 5348] [client 58.187.164.205:3671] PHP Fatal error:  Cannot pass parameter 1 by reference in /var/www/html/linhhandmadev3/app/Http/Controllers/frontend/PagesController.php on line 569, referer: http://lhm.thietkewebsangtao.com/get-order?district=271
+[Thu Oct 13 07:55:31.581095 2016] [:error] [pid 4533] [client 58.187.164.205:17234] PHP Fatal error:  Cannot use [] for reading in /var/www/html/linhhandmadev3/app/Http/Controllers/frontend/PagesController.php on line 49, referer: http://lhm.thietkewebsangtao.com/get-order?district=271
+[Thu Oct 13 16:20:50.616745 2016] [:error] [pid 4985] [client 42.113.231.19:4400] PHP Fatal error:  Class 'App\\Http\\Controllers\\frontend\\Category' not found in /var/www/html/linhhandmadev3/app/Http/Controllers/frontend/PagesController.php on line 141, referer: http://lhm.thietkewebsangtao.com/category/6/ao-phong-nu
+[Thu Oct 13 16:47:30.301306 2016] [:error] [pid 31701] [client 42.113.231.19:4572] PHP Fatal error:  Function name must be a string in /var/www/html/linhhandmadev3/app/Http/Controllers/frontend/PagesController.php on line 134, referer: http://lhm.thietkewebsangtao.com/category/5/ao-phong-nam
+[Thu Oct 13 16:57:51.471866 2016] [:error] [pid 10802] [client 42.113.231.19:4631] PHP Fatal error:  Class 'App\\Http\\Controllers\\frontend\\ProductAttribute' not found in /var/www/html/linhhandmadev3/app/Http/Controllers/frontend/PagesController.php on line 141, referer: http://lhm.thietkewebsangtao.com/category/5/ao-phong-nam
+[Sun Jun 17 07:43:38.244668 2018] [:error] [pid 5930] [client 216.244.66.197:59828] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 07:43:54.164222 2018] [:error] [pid 5965] [client 216.244.66.197:52282] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 08:09:14.902685 2018] [:error] [pid 5965] [client 216.244.66.197:45134] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 08:09:17.955487 2018] [:error] [pid 6235] [client 216.244.66.197:54214] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 08:59:42.167923 2018] [:error] [pid 6485] [client 216.244.66.197:49384] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 09:24:59.807705 2018] [:error] [pid 6485] [client 216.244.66.197:40634] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 09:25:16.056715 2018] [:error] [pid 5965] [client 216.244.66.197:37272] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 09:50:36.787899 2018] [:error] [pid 6488] [client 216.244.66.197:37304] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 10:23:37.379039 2018] [:error] [pid 6652] [client 216.244.66.197:59072] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 10:44:52.862846 2018] [:error] [pid 6576] [client 216.244.66.197:44834] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 11:07:09.920278 2018] [:error] [pid 6576] [client 216.244.66.197:43000] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 11:40:08.289497 2018] [:error] [pid 6576] [client 216.244.66.197:46894] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 11:40:11.299116 2018] [:error] [pid 7193] [client 216.244.66.197:55232] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 11:52:42.477504 2018] [:error] [pid 6576] [client 216.244.66.197:48612] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 12:03:55.422937 2018] [:error] [pid 6479] [client 216.244.66.197:36204] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:02:39.197932 2018] [:error] [pid 8076] [client 216.244.66.197:46996] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:02:42.284020 2018] [:error] [pid 8068] [client 216.244.66.197:53914] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:27:00.451729 2018] [:error] [pid 8081] [client 216.244.66.197:42338] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:27:03.441456 2018] [:error] [pid 8068] [client 216.244.66.197:53650] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:27:12.217726 2018] [:error] [pid 8076] [client 216.244.66.197:52920] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 13:38:17.369183 2018] [:error] [pid 9680] [client 216.244.66.197:46044] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 14:02:22.725012 2018] [:error] [pid 6479] [client 216.244.66.197:37078] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 14:15:29.292347 2018] [:error] [pid 10187] [client 216.244.66.197:37430] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:18:36.193181 2018] [:error] [pid 6479] [client 216.244.66.197:50386] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:18:38.724873 2018] [:error] [pid 12077] [client 216.244.66.197:59772] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:18:41.488519 2018] [:error] [pid 10187] [client 216.244.66.197:45570] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:28:50.800700 2018] [:error] [pid 9683] [client 216.244.66.197:47692] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:28:53.341678 2018] [:error] [pid 6479] [client 216.244.66.197:55126] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:28:55.920484 2018] [:error] [pid 6479] [client 216.244.66.197:33396] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 15:54:37.798518 2018] [:error] [pid 12420] [client 216.244.66.197:40580] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 16:21:18.113329 2018] [:error] [pid 12421] [client 216.244.66.197:47438] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 16:21:20.433345 2018] [:error] [pid 6479] [client 216.244.66.197:53320] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 16:41:10.335934 2018] [:error] [pid 12421] [client 216.244.66.197:38332] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 17:15:42.822757 2018] [:error] [pid 12419] [client 216.244.66.197:49134] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 18:46:41.831211 2018] [:error] [pid 14592] [client 216.244.66.197:37676] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 19:12:50.915429 2018] [:error] [pid 14590] [client 216.244.66.197:44080] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 19:19:03.744773 2018] [:error] [pid 6479] [client 216.244.66.197:44690] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 19:37:15.776299 2018] [:error] [pid 12419] [client 216.244.66.197:52984] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 19:38:25.184087 2018] [:error] [pid 12419] [client 216.244.66.197:52342] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 19:44:29.979568 2018] [:error] [pid 12419] [client 216.244.66.197:33266] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 21:51:29.861218 2018] [:error] [pid 14592] [client 216.244.66.197:33860] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 21:52:41.927730 2018] [:error] [pid 16490] [client 216.244.66.197:42908] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 21:52:44.555490 2018] [:error] [pid 14591] [client 216.244.66.197:51182] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 22:19:29.787484 2018] [:error] [pid 14590] [client 216.244.66.197:47188] script '/var/www/html/index.php' not found or unable to stat
+[Sun Jun 17 23:01:25.774534 2018] [:error] [pid 14592] [client 193.169.252.83:52508] script '/var/www/html/wp-login.php' not found or unable to stat, referer: http://linhhandmade.com/wp-login.php
+[Sun Jun 17 23:01:26.081730 2018] [:error] [pid 14592] [client 193.169.252.83:52508] script '/var/www/html/wp-login.php' not found or unable to stat, referer: http://linhhandmade.com/wp-login.php
+[Mon Jun 18 00:05:27.138125 2018] [:error] [pid 17181] [client 216.244.66.197:49108] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 00:31:48.877356 2018] [:error] [pid 14590] [client 216.244.66.197:47894] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 00:31:51.881734 2018] [:error] [pid 17181] [client 216.244.66.197:51156] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 00:32:50.443750 2018] [:error] [pid 14590] [client 216.244.66.197:45108] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 01:54:52.663259 2018] [:error] [pid 17340] [client 185.234.217.31:54700] script '/var/www/html/wp-login.php' not found or unable to stat, referer: http://linhhandmade.com/wp-login.php
+[Mon Jun 18 01:54:52.922832 2018] [:error] [pid 17340] [client 185.234.217.31:54700] script '/var/www/html/wp-login.php' not found or unable to stat, referer: http://linhhandmade.com/wp-login.php
+[Mon Jun 18 02:24:29.823934 2018] [:error] [pid 17340] [client 216.244.66.197:51566] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 06:43:21.480666 2018] [:error] [pid 21898] [client 1.55.123.30:50600] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 07:04:44.355849 2018] [:error] [pid 21803] [client 216.244.66.197:51900] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 10:53:27.386237 2018] [:error] [pid 22899] [client 216.244.66.197:42630] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 10:53:59.440666 2018] [:error] [pid 22853] [client 216.244.66.197:35284] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 14:29:59.154121 2018] [:error] [pid 22840] [client 216.244.66.197:57726] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 16:14:44.278779 2018] [:error] [pid 24099] [client 216.244.66.197:56584] script '/var/www/html/index.php' not found or unable to stat
+[Mon Jun 18 16:15:45.872819 2018] [:error] [pid 24044] [client 216.244.66.197:38098] script '/var/www/html/index.php' not found or unable to stat
